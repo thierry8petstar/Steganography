@@ -1,0 +1,11 @@
+--> strings
+--> exif
+--> exiftool
+--> xxd
+--> outguess -r challenge.jpg result.txt
+--> binwalk --d=".*" challenge.png
+--> foremost -i
+-->java -jar stegsolve.jar
+--> zsteg
+--> sonic visualiser
+-->tweekpng.exe
